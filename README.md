@@ -1,6 +1,9 @@
 ## run composer command
 composer update/composer install
 
+## create migration for command
+php artisan migrate
+
 ## create role for command
 php artisan db:seed
 
