@@ -1,10 +1,10 @@
-## run composer command
+## Run composer command
 composer update/composer install
 
-## create migration for command
+## Create migration for command
 php artisan migrate
 
-## create role for command
+## Create role for command
 php artisan db:seed
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
